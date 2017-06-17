@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1453172369 source:d:\sdp\citymap\main.cpp
+	<iostream>
+	<stdexcept>
+	"Graph.h"
+
+1452956856 source:d:\sdp\citymap\src\edge.cpp
+	"Edge.h"
+
+1453040338 d:\sdp\citymap\include\edge.h
+	"Vertex.h"
+
+1453116697 d:\sdp\citymap\include\vertex.h
+	<vector>
+	<iostream>
+	"Edge.h"
+
+1453169560 source:d:\sdp\citymap\src\graph.cpp
+	<fstream>
+	<stack>
+	<stdexcept>
+	"Graph.h"
+
+1453169306 d:\sdp\citymap\include\graph.h
+	<unordered_map>
+	<vector>
+	<queue>
+	"Vertex.h"
+	"Edge.h"
+
+1453160427 source:d:\sdp\citymap\src\vertex.cpp
+	"Vertex.h"
+
